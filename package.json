@@ -2,7 +2,7 @@
 {
   "name": "react-native-cardview",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test ReactNative Module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,15 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
+  "author": {
+    "name": "jonas",
+    "email": "jonas040522@gmail.com"
+  },
   "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiangqiA/react-native-module-test-toast.git"
+  },
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
