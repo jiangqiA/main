@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # react-native-cardview
 
@@ -43,3 +44,6 @@ import RNCardview from 'react-native-cardview';
 RNCardview;
 ```
   
+=======
+# main
+>>>>>>> 6a7d4f64eb52781923c9ab1ea130001239c77919
