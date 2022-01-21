@@ -1,6 +1,6 @@
 {
   "name": "react-native-module-test-toast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test ReactNative Module",
   "main": "index.js",
   "scripts": {
